@@ -1,0 +1,6 @@
+census_year,block_id,property_id,base_property_id,building_address,clue_small_area,business_address,trading_name,industry_code,industry_description,seating_type,number_of_seats,longitude,latitude
+2020,1,611394,611394,545-557 Flinders Street MELBOURNE VIC 3000,Melbourne (CBD),553 Flinders Street MELBOURNE VIC 3000,Domino's Pizza,4512,Takeaway Food Services,Seats - Indoor,12,144.95651,-37.82098
+2020,4,104034,104034,Flinders Street Railway Station 207-361 Flinders Street MELBOURNE VIC 3000,Melbourne (CBD),2 Flinders Walk MELBOURNE VIC 3000,Arbory Bar and Eatery,4511,Cafes and Restaurants,Seats - Outdoor,367,144.96578,-37.81868
+2020,42,101156,101155,535 Bourke Street MELBOURNE VIC 3000,Melbourne (CBD),"Shop 1B, 535 Bourke Street MELBOURNE VIC 3000",Doughboys Doughnuts,4511,Cafes and Restaurants,Seats - Outdoor,24,144.95781,-37.81637
+2020,74,103200,103200,287-289 Elizabeth Street MELBOURNE VIC 3000,Melbourne (CBD),Level 1 287-289 Elizabeth Street MELBOURNE VIC 3000,Mankeumi,4511,Cafes and Restaurants,Seats - Indoor,20,144.96163,-37.81191
+2020,104,100167,100167,Uni On A'Beckett Apartments 106-116 A'Beckett Street MELBOURNE VIC 3000,Melbourne (CBD),106 A'Beckett Street MELBOURNE VIC 3000,Cupanda Kitchen,4511,Cafes and Restaurants,Seats - Indoor,80,144.96001,-37.80913
